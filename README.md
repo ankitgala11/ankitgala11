@@ -1,5 +1,5 @@
 <h1 align="center">Hey🙋🏻‍♂️, I'm Ankit Gala</h1>
-<h3 align="center">A passionate Software Engineer/ Programmer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 📫 How to reach me **ankitgala00@gmail.com**
 
