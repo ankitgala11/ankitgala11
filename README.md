@@ -3,6 +3,9 @@
 
 <p align="center">
   📫 How to reach me: <a href="mailto:ankitgala00@gmail.com">ankitgala00@gmail.com</a>
+  or Connect with me: <a href="https://linkedin.com/in/galaankit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galaankit" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ankitgala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitgala" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ankitgala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitgala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
