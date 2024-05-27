@@ -12,6 +12,16 @@
   <a href="https://auth.geeksforgeeks.org/user/ankitgala" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ankitgala" height="30" width="40" /></a>
 </p>
 
+---
+
+I'm Ankit Gala, a software engineer driven by a passion for solving complex problems with impactful solutions. Specializing in Data Structures, Algorithms, and Software Engineering, I excel in quickly mastering new skills and crafting elegant solutions. By achieving Rank 1 at institue level on GeeksForGeeks, I've proven my ability to tackle challenging tasks efficiently.
+
+My journey through graduate studies at KJ Somaiya, combined with participation in hackathons and coding competitions, has honed my collaborative skills and broadened my perspective. I'm fascinated by technology's potential to enhance lives and reveal new opportunities for advancement.
+
+Grateful for the endless learning and problem-solving ahead, I'm excited to continue making a difference in the world of software engineering.
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -41,16 +51,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
----
 
-I'm passionate about solving complex problems and taking on new challenges that make a lasting impact on people's everyday lives. As a software engineer, I am a problem solver at heart, willing to wear whatever hat I need to tackle important problems.
-
-My key area of interest lies in Data Structures and Algorithms, as well as Software Engineering. I excel in quickly learning new skills and programming languages, problem-solving, software design, and database design. With a 4 ☆ rating on CodeChef, I have demonstrated my ability to solve challenging problems efficiently.
-
-Through my graduate studies at KJ Somaiya and my participation in multiple hackathons and coding competitions, along with my work experiences, I've had the opportunity to collaborate with individuals from diverse backgrounds and cultures. I'm continuously fascinated by how technology can improve our lives and reveal areas for improvement.
-
-There's always more to learn, more problems to solve, and more to build. And for that, I am grateful.
-
----
 
 </div>
