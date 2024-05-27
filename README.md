@@ -1,4 +1,4 @@
-<h1 align="center">Hey🙋🏻‍♂️, I'm Ankit Gala</h1>
+<h1 align="center">Hey <span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/></span>, I'm Ankit Gala</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center">
